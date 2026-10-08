@@ -1,0 +1,18 @@
+# qmake build artifacts
+build/
+build-*/
+*.o
+*.obj
+Makefile
+Makefile.*
+*.pro.user
+*.pro.user.*
+.qmake.stash
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
